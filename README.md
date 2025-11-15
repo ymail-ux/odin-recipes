@@ -1,1 +1,3 @@
 # odin-recipes
+This is a website on recipes.
+It demonstrates basic tags used in html.
